@@ -26,8 +26,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hamuchan214&show_icons=true&locale=en&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=hamuchan214&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats-6s8xzql7t-hamuchan214s-projects.vercel.app/api/top-langs?username=hamuchan214&show_icons=true&locale=en&layout=compact)
+![Stats](https://github-readme-stats-6s8xzql7t-hamuchan214s-projects.vercel.app/api?username=hamuchan214&show_icons=true&locale=en)
 
 ## 📫 Contact
 - Blog: [htsaba.net](https://htsaba.net)
